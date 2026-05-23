@@ -600,9 +600,6 @@ export default function OnePiecePortfolio() {
             <p className="text-lg leading-8 text-[#5b4636]">
               Konsep ini dibuat lebih baru dari versi sebelumnya: warna lebih editorial, layout bento 2024–2025, karakter Monkey D. Luffy memakai gambar yang kamu upload, dan tone yang tetap credible. Agar tidak error saat build, gambar dipanggil dari folder public, bukan dari import bundler.
             </p>
-            <div className="mt-6 rounded-2xl bg-[#fff5cf] p-4 text-sm font-bold leading-7 text-[#5d3c16]">
-              Simpan file gambar di <code className="rounded bg-black/5 px-2 py-1">public/luffy-removebg-preview.png</code>. Jika file belum ada, halaman tetap build dan menampilkan fallback card.
-            </div>
             <div className="mt-6 grid gap-3 sm:grid-cols-2">
               {skills.map((skill) => (
                 <span key={skill} className="rounded-2xl border border-black/10 bg-[#faf6ed] px-4 py-3 text-sm font-black text-[#5b4636]">
