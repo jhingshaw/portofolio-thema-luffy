@@ -27,13 +27,13 @@ type JourneyItem = {
 };
 
 const profile = {
-  name: "Your Name",
+  name: "JhingShaw",
   role: "Frontend / Full-stack Developer",
   headline: "Rubber-fast interfaces. Pirate-level execution.",
   location: "Indonesia",
-  email: "you@example.com",
-  github: "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  email: "ajjayv2@gmail.com",
+  github: "https://github.com/jhingshaw",
+  linkedin: "https://linkedin.com/in/-",
 };
 
 const featuredCharacter = {
@@ -104,16 +104,16 @@ const projects: Project[] = [
       "Portfolio interaktif dengan bento cards, visual mascot, CTA kuat, dan storytelling yang tajam.",
     stack: ["React", "Tailwind", "Vite"],
     impact: "Brand recall + strong first impression",
-    link: "#",
+    link: "https://portofolio-jhingshaw.vercel.app",
   },
   {
-    title: "Straw Hat Security Lab",
-    category: "Security Dashboard",
+    title: "Luffy Gear Portfolio Theme",
+    category: "Anime Portfolio Website",
     description:
-      "Dashboard monitoring findings, severity, notes, dan remediation progress untuk workflow bug hunting.",
-    stack: ["TypeScript", "Charts", "API"],
-    impact: "Cleaner triage and faster reporting",
-    link: "#",
+      "Website portfolio bertema Monkey D. Luffy dengan hero section bold, karakter visual utama, bento layout modern, responsive design, dan CTA profesional untuk personal branding developer.",
+    stack: ["React", "Tailwind CSS", "Vite", "Vercel"],
+    impact: "Membuat portfolio lebih standout, memorable, dan siap dipakai untuk GitHub serta deploy Vercel",
+    link: "https://portofolio-thema-luffy.vercel.app/",
   },
   {
     title: "Sunny Commerce UI",
