@@ -113,7 +113,7 @@ const projects: Project[] = [
       "Website portfolio bertema Monkey D. Luffy dengan hero section bold, karakter visual utama, bento layout modern, responsive design, dan CTA profesional untuk personal branding developer.",
     stack: ["React", "Tailwind CSS", "Vite", "Vercel"],
     impact: "Membuat portfolio lebih standout, memorable, dan siap dipakai untuk GitHub serta deploy Vercel",
-    link: "https://portofolio-thema-luffy.vercel.app/",
+    link: "https://portofolio-thema-luffy.vercel.app",
   },
   {
     title: "Sunny Commerce UI",
